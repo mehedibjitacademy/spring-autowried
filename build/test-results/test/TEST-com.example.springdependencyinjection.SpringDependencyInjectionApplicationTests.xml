@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.springdependencyinjection.SpringDependencyInjectionApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-09T06:07:36" hostname="DESKTOP-3N9TI6I" time="2.472">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.springdependencyinjection.SpringDependencyInjectionApplicationTests" time="2.472"/>
+  <system-out><![CDATA[12:07:30.155 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.springdependencyinjection.SpringDependencyInjectionApplicationTests]: SpringDependencyInjectionApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+12:07:30.539 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.springdependencyinjection.SpringDependencyInjectionApplication for test class com.example.springdependencyinjection.SpringDependencyInjectionApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::       (v3.1.0-SNAPSHOT)
+
+2023-05-09T12:07:32.247+06:00  INFO 15048 --- [    Test worker] pringDependencyInjectionApplicationTests : Starting SpringDependencyInjectionApplicationTests using Java 20 with PID 15048 (started by BJIT in G:\My Drive\Work Space BT\Spring\spring-dependency-injection\spring-dependency-injection)
+2023-05-09T12:07:32.251+06:00  INFO 15048 --- [    Test worker] pringDependencyInjectionApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-05-09T12:07:36.243+06:00  INFO 15048 --- [    Test worker] pringDependencyInjectionApplicationTests : Started SpringDependencyInjectionApplicationTests in 5.066 seconds (process running for 8.501)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
